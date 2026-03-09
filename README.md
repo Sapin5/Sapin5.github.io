@@ -7,7 +7,7 @@ Here is link to my github if you wish to look anyways: [Sapin5](https://github.c
 2D platformer using UNITY: [Borgs Big adventure](https://kjimeno2.itch.io/borgs-big-adventure)
   - I was responsible for player controls and game logic
   - Simple 2D platformer
-  - Only game created that is technically completed lol (Have run out on ever other project :( )
+  - Only game created that is technically completed lol (Have run out of time on every other project)
 
 Somewhat Functioning VR game: [Defend Teenies](https://caithl.itch.io/defend-teenies) 
   - some bug happened that we didn't catch before deadline that causes game to crash on boot
