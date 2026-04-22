@@ -19,3 +19,7 @@ Somewhat Functioning VR game: [Defend Teenies](https://caithl.itch.io/defend-tee
   - Rough 2D platormer I created from scratch using raylib
   - Spent more time getting the collision logic working properlly than I thought I would
   - Using this as a base for a 2D engine I am currently working on
+
+Asteroids Replica: [Asteroids](https://sapin5.itch.io/asteroids)
+  - 2D Asteroid Replica made using Java
+  - Simple project with particles and such
