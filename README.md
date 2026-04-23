@@ -3,7 +3,9 @@
 ## Im currently trying to learn CSS and HTML
 
 Here is link to my github if you wish to look anyways: [Sapin5](https://github.com/Sapin5)
+
 LinkedIn is here [LinkedIN](https://www.linkedin.com/in/santiago-pinto-b064642a8)
+
 ItchIO Page [itch.io](https://sapin5.itch.io/)
 
 2D platformer using UNITY: [Borgs Big adventure](https://kjimeno2.itch.io/borgs-big-adventure)
