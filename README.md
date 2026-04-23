@@ -3,6 +3,8 @@
 ## Im currently trying to learn CSS and HTML
 
 Here is link to my github if you wish to look anyways: [Sapin5](https://github.com/Sapin5)
+LinkedIn is here [LinkedIN](https://www.linkedin.com/in/santiago-pinto-b064642a8)
+ItchIO Page [itch.io](https://sapin5.itch.io/)
 
 2D platformer using UNITY: [Borgs Big adventure](https://kjimeno2.itch.io/borgs-big-adventure)
   - I was responsible for player controls and game logic
@@ -23,3 +25,7 @@ Somewhat Functioning VR game: [Defend Teenies](https://caithl.itch.io/defend-tee
 Asteroids Replica: [Asteroids](https://sapin5.itch.io/asteroids)
   - 2D Asteroid Replica made using Java
   - Simple project with particles and such
+
+Basic grid Search with A* [A*](https://github.com/Sapin5/AStarImplementation)
+  - Console programm that runs A* search on grid
+  - Walls can be placed using "space" to create obstacles 
